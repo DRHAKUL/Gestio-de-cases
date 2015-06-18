@@ -1,0 +1,114 @@
+
+
+div{
+    overflow: auto;
+}
+
+
+li{
+    list-style: none;
+}
+
+
+
+.ellipse{
+    float: left;
+}
+
+
+
+.page_navigation , .alt_page_navigation{
+    alignment-adjust: middle;
+}
+
+.page_navigation a, .alt_page_navigation a{
+    padding:3px 5px;
+    margin:3px;
+    float: left;
+    text-decoration:none;
+    font-family: Tahoma;
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+    /* background-color:#fff295;*/
+}
+
+.active_page{
+    background-color: rgb(70, 118, 221) !important;
+    color:black !important;
+}
+
+.llista_content, .alt_content{
+    color: black;
+    margin-left: -40px;
+}
+
+.info_text{
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.cobraments{
+    padding-top: 40px;
+    padding-left: 25px;
+}
+
+#wrapper_botons{
+    padding-left: 25px;
+}
+
+.detalls_servei{
+    float:left;
+    margin-right: 20px;
+}
+
+.pagaments_servei{
+
+}
+
+.serveis{
+    float:left;
+}
+
+#tab_pagaments{
+    margin-left: 20px;
+}
+
+.taules_pagaments{
+    margin-bottom: 30px;
+}
+
+.pagaments{
+    margin-top: 20px;
+}
+.head{
+    background-color: #E0DDCA;
+}
+.head a{
+    float:right;
+    margin-right: 15px;
+}
+.taula_avisos{
+    border-bottom-style:solid;
+    background-color: lightblue;
+    line-height: 70px;
+}
+.negreta{
+    font-weight: bold;
+}
+#taula_entrades table tr td{
+    font-size: 11px;
+}
+.blonk {
+    transition: color 200ms ease;
+}
+.blink {
+    color:red;
+}
+.separacio{
+    margin-top: 20px;
+}

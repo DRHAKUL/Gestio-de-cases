@@ -1,0 +1,6 @@
+stil fet amb bootstrap
+responsive
+validacion html 5
+
+
+http://www.w3schools.com/jquery/default.asp
